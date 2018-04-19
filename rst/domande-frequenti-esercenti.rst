@@ -52,7 +52,7 @@ Se aderisci all’iniziativa Carta del Docente, puoi vendere esclusivamente i be
 2. I servizi rientranti nell’ambito FORMAZIONE E AGGIORNAMENTO possono essere forniti ai docenti da qualunque ente di formazione /esercente?
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-NO, gli enti che possono fornire ai docenti le iniziative di formazione presenti nell’ambito “FORMAZIONE E AGGIORNAMENTO”, sono esclusivamente gli enti di formazione accreditati o i cui corsi sono stati riconosciuti dal MIUR in base alla Direttiva 170/2016, nonchè le istituzioni scolastiche, singole o in rete, le Università, i Consorzi universitari e interuniversitari, le Istituzioni dell’Alta formazione artistica, musicale e coreutica (statali e private con corsi accreditati dal MIUR), gli enti pubblici di ricerca, le istituzioni museali e gli enti culturali rappresentanti i Paesi le cui lingue sono incluse nei curriculi scolastici italiani.
+NO, gli enti che possono fornire ai docenti le iniziative di formazione presenti nell’ambito “FORMAZIONE E AGGIORNAMENTO”, sono esclusivamente gli enti di formazione accreditati o i cui corsi sono stati riconosciuti dal MIUR in base alla Direttiva 170/2016, nonché le istituzioni scolastiche, singole o in rete, le Università, i Consorzi universitari e interuniversitari, le Istituzioni dell’Alta formazione artistica, musicale e coreutica (statali e private con corsi accreditati dal MIUR), gli enti pubblici di ricerca, le istituzioni museali e gli enti culturali rappresentanti i Paesi le cui lingue sono incluse nei curricula scolastici italiani.
 
 
 3. Per verificare che chi presenta il buono di spesa ne sia effettivamente l’intestatario devo richiedere la presentazione di un documento?
@@ -100,7 +100,7 @@ Registrazione e visibilità
 1. Come effettuo l’accesso all’applicazione cartadeldocente.istruzione.it?
 --------------------------------------------------------------------------
 
-Con le credenziali di accreditamento ai ServiziTtelematici dell’Agenzia delle Entrate del proprio rappresentante legale o di un soggetto delegato ad operare per suo conto in fisconline o entratel (con codice fiscale/password in caso di Fisconline – con nome utente/password in caso di Entratel). In fase di conferma dei dati inseriti o aggiornati verrà richiesto il codice PIN dell’utente in sessione.
+Con le credenziali di accreditamento ai ServiziTtelematici dell’Agenzia delle Entrate del proprio rappresentante legale o di un soggetto delegato ad operare per suo conto in Fisconline o Entratel (con codice fiscale/password in caso di Fisconline – con nome utente/password in caso di Entratel). In fase di conferma dei dati inseriti o aggiornati verrà richiesto il codice PIN dell’utente in sessione.
 
 
 2. Che dati devo fornire per la registrazione all’applicazione cartadeldocente.istruzione.it?
@@ -304,7 +304,7 @@ Ti consiglio di verificare attentamente il “Codice Ufficio” prima dell’inv
 Sì, puoi aderire all’iniziativa. Per l’emissione della fattura elettronica puoi provvedere direttamente seguendo le istruzioni riportate nel sito `www.fatturapa.gov.it <http://www.fatturapa.gov.it/>`__ o avvalendoti di un intermediario.
 
 
-4. Cosa devo fare per utilizzare la piattaforma fatturapa ai fini dell’invio della fattura elettronica?
+4. Cosa devo fare per utilizzare la piattaforma fatturaPA ai fini dell’invio della fattura elettronica?
 -------------------------------------------------------------------------------------------------------
 
 Devi svolgere le operazioni riportate nel link: `http://www.fatturapa.gov.it/export/fatturazione/it/c-1.htm <http://www.fatturapa.gov.it/export/fatturazione/it/c-1.htm>`__
@@ -325,7 +325,7 @@ Il pagamento avviene nei tempi previsti per la pubblica amministrazione dalla no
 7. Come viene effettuato il pagamento della fattura?
 ----------------------------------------------------
 
-Attraverso bonifico bancario sul c/c il cui iban è indicato in fattura.
+Attraverso bonifico bancario sul c/c il cui IBAN è indicato in fattura.
 
 
 8. La fattura emessa avrà valenza ai fini fiscali?

@@ -32,7 +32,7 @@ In particolare, nell’applicazione web gli esercenti o enti di formazione avran
 4. fatturazione
 
 
-REGISTRAZIONE AL SERVIZIO
+Registrazione al servizio
 =========================
 
 L’applicazione cartadeldocente.istruzione.it può essere utilizzata solo dagli esercenti o dagli enti di formazione con credenziali di accesso ai Servizi Telematici dell’Agenzia delle Entrate e che hanno incaricato dei soggetti ad operare per proprio conto. Gli esercenti o gli enti di formazione si devono, quindi, obbligatoriamente registrare all’applicazione web per poter vendere i propri prodotti o servizi.
@@ -46,7 +46,7 @@ Le fasi della registrazione:
 Al termine della registrazione, il sistema assegnerà automaticamente a ciascun esercente o ente di formazione un “codice esercente” di 5 caratteri alfanumerici da utilizzare in fase di riscossione dei buoni. Gli esercenti o enti di formazione possono modificare le informazioni registrate ogni qual volta vorranno (ad esempio: variazione dati, inserimento/cancellazione dei punti vendita fisici).
 
 
-VENDITA
+Vendita
 =======
 
 L’applicazione web mette a disposizione degli esercenti o degli enti di formazione due tipologie di vendita: nell’esercizio fisico oppure on-line (in fase di registrazione è possibile indicare l’utilizzo anche di entrambe le tipologie). In caso di vendita nell’esercizio fisico, l’esercente o l’ ente di formazione può indicare tutti i punti vendita dove i docenti potranno esibire i buoni di spesa con l’indicazione delle categorie di beni o servizi disponibili. I punti vendita potranno essere geolocalizzati nell’applicazione cartadeldocente.istruzione.it.
@@ -55,24 +55,24 @@ In caso di vendita online, l’esercente o l’ ente di formazione dovrà prima 
 
 In particolare dovrà:
 
--  richiedere il certificato in fase di registazione;
+-  richiedere il certificato in fase di registrazione;
 
 -  scaricare il certificato nei propri sistemi;
 
 -  verificare l’istallazione del certificato tramite specifica chiamata del web-service, come da indicazioni in allegato1.
 
-Si precisa che sarà possibile anche per gli esercenti o per gli enti di formazione che scelgono la vendita presso l’esercizio fisico scegliere l’utilizzo delle API services che prevedono il download ed istallazione di un certificato nei propri sistemi, secondo il procedimento descritto per la vendità online.
+Si precisa che sarà possibile anche per gli esercenti o per gli enti di formazione che scelgono la vendita presso l’esercizio fisico scegliere l’utilizzo delle API services che prevedono il download ed istallazione di un certificato nei propri sistemi, secondo il procedimento descritto per la vendita online.
 
 Si precisa, inoltre, che per gli esercenti o per gli enti di formazione che utilizzeranno il web-services per la validazione dei buoni sono previsti i seguenti stati di lavorazione legati alle attività di configurazione dei propri sistemi in cui dovrà essere istallato il certificato:
 
--  da attivare  certificato da scaricare dall’ applicazione cartadeldocente.istruzione.it
+-  da attivare -> certificato da scaricare dall’applicazione cartadeldocente.istruzione.it
 
--  attivabile  certificato scaricato, ma non istallato
+-  attivabile -> certificato scaricato, ma non istallato
 
--  attivo  certificato istallato (vd. allegato 1).
+-  attivo -> certificato istallato (vd. allegato 1).
 
 
-CONTROLLO E RISCOSSIONE DEI BUONI DI SPESA
+Controllo e riscossione dei buoni di spesa
 ==========================================
 
 Gli esercenti o gli enti di formazione possono verificare e riscuotere i buoni di spesa generati dai docenti nelle funzionalità dell’applicazione loro dedicate ed identificati da uno specifico codice.
@@ -116,7 +116,7 @@ Le liste visualizzate potranno essere scaricate in formato .csv per facilitare l
 Nella “lista dei buoni”, resa disponibile nella web app cartadeldocente.istruzione.it, gli esercenti o gli enti di formazione possono, inoltre, verificare se il numero di buoni convalidati coincide con quello delle fatture.
 
 
-FATTURAZIONE
+Fatturazione
 ============
 
 Agli esercenti o agli enti di formazione viene riconosciuto un credito per ogni buono riscosso da dichiarare in sede di fatturazione elettronica.
@@ -152,9 +152,9 @@ Il servizio web di **verifica del buono** da parte degli esercenti o degli enti 
 |         | importo                      | *importo totale del buono*  |
 +---------+------------------------------+-----------------------------+
 
-Se **tipo operazione** verrà valorizzato con **“1”**, il check del buono restituerà all’esercente i campi previsti in output senza consumare il buono e quindi senza scalare l’importo dal Portafoglio del beneficiario. Questa modalità di utilizzo dell’operazione non è obbligatoria, ma lascia all’esercente la possibilità di eseguire un controllo tra il nominativo del beneficiario e quello del suo cliente in sessione.
+Se **tipo operazione** verrà valorizzato con **“1”**, il check del buono restituirà all’esercente i campi previsti in output senza consumare il buono e quindi senza scalare l’importo dal Portafoglio del beneficiario. Questa modalità di utilizzo dell’operazione non è obbligatoria, ma lascia all’esercente la possibilità di eseguire un controllo tra il nominativo del beneficiario e quello del suo cliente in sessione.
 
-Se **tipo operazione** verrà valorizzato con **“2”**, il check del buono consumerà direttamente l’importo, scalandolo dal Portafoglio del beneficiario, e restituerà comunque le informazioni previste in output. L’esercente potrà scegliere di usare direttamente questa modalità oppure effettuare due chiamate successive: la prima per il controllo del beneficiario e la seconda per l’effettivo utilizzo del buono.
+Se **tipo operazione** verrà valorizzato con **“2”**, il check del buono consumerà direttamente l’importo, scalandolo dal Portafoglio del beneficiario, e restituirà comunque le informazioni previste in output. L’esercente potrà scegliere di usare direttamente questa modalità oppure effettuare due chiamate successive: la prima per il controllo del beneficiario e la seconda per l’effettivo utilizzo del buono.
 
 Il sequence diagram seguente descrive ad alto livello l’interazione tra i vari sistemi coinvolti, nei casi fin qui descritti:
 
@@ -1141,7 +1141,7 @@ element **ConfirmResponse/esito**
    :width: 1.3125in
    :height: 0.26042in
 .. |image21| image:: _images/esercenti/image22.png
-   :width: 0.60417in
+           :width: 0.60417in
    :height: 0.26042in
 .. |image22| image:: _images/esercenti/image23.png
    :width: 0.58333in
