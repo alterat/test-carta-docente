@@ -936,42 +936,42 @@ La valorizzazione degli elementi del tracciato xml deve rispettare i requisiti f
 +------------------------------------+--------------------------+----------------------------+
 
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: _images/fattura/image1.png
    :width: 5.98432in
    :height: 2.89323in
-.. |image1| image:: media/image2.png
+.. |image1| image:: _images/fattura/image2.png
    :width: 6.26532in
    :height: 0.20073in
-.. |image2| image:: media/image3.png
+.. |image2| image:: _images/fattura/image3.png
    :width: 5.77124in
    :height: 3.2125in
-.. |image3| image:: media/image4.png
+.. |image3| image:: _images/fattura/image4.png
    :width: 6.36262in
    :height: 2.43812in
-.. |image4| image:: media/image5.png
+.. |image4| image:: _images/fattura/image5.png
    :width: 5.49414in
    :height: 2.65625in
-.. |image5| image:: media/image6.png
+.. |image5| image:: _images/fattura/image6.png
    :width: 6.30705in
    :height: 1.96458in
-.. |image6| image:: media/image7.png
+.. |image6| image:: _images/fattura/image7.png
    :width: 5.54583in
    :height: 3.26653in
-.. |image7| image:: media/image8.png
+.. |image7| image:: _images/fattura/image8.png
    :width: 6.4197in
    :height: 4.80937in
-.. |image8| image:: media/image9.png
+.. |image8| image:: _images/fattura/image9.png
    :width: 6.36645in
    :height: 2.39333in
-.. |image9| image:: media/image10.png
+.. |image9| image:: _images/fattura/image10.png
    :width: 6.14449in
    :height: 4.15125in
-.. |image10| image:: media/image11.jpeg
+.. |image10| image:: _images/fattura/image11.jpeg
    :width: 6.39293in
    :height: 3.15in
-.. |image11| image:: media/image12.png
+.. |image11| image:: _images/fattura/image12.png
    :width: 6.38448in
    :height: 2.46875in
-.. |image12| image:: media/image13.png
+.. |image12| image:: _images/fattura/image13.png
    :width: 5.14997in
    :height: 1.42708in
