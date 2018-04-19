@@ -1141,7 +1141,7 @@ element **ConfirmResponse/esito**
    :width: 1.3125in
    :height: 0.26042in
 .. |image21| image:: _images/esercenti/image22.png
-           :width: 0.60417in
+   :width: 0.60417in
    :height: 0.26042in
 .. |image22| image:: _images/esercenti/image23.png
    :width: 0.58333in
