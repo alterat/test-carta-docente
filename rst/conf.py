@@ -7,7 +7,7 @@ from recommonmark.transform import AutoStructify
 from recommonmark.parser import CommonMarkParser
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Guida a Carta del docente per gli esercenti'
+settings_project_name = 'Guida a Carta del Docente per gli esercenti'
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
